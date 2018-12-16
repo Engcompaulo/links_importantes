@@ -9,7 +9,7 @@
 <h2>Artigos</h2>
 <h3></h3>
 <h2>Nóticias</h2>
-<h3></h3>
+<li><a href="https://www.tecmundo.com.br/ciencia/127945-menina-ganha-mao-bionica-doenca-tragica.htm">Menina ganha mão bionica doença trágica</a></li>
 <h2>Pesquisas</h2>
 <h3></h3>
 <h2>Eventos</h2>
@@ -21,7 +21,8 @@
 <h2>Metodologias</h2>
 <h3></h3>
 
-<!-- <li><a">exemplo</a></li>
+<!-- <li><a href="">exemplo</a></li>
 <li><a href="">exemplo</a></li>
  -->
 </ul>
+
