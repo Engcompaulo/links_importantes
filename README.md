@@ -25,7 +25,8 @@
 <h3></h3>
 <h2>Cursos</h2>
 <h4>Evaldo Junior (InFog)</h4> <li><a href="http://blog.evaldojunior.com.br/aulas-de-python.html">Curso de Python.</a></li>
-<h2>rojetos</h2>
+<h4>USP</h4> <li><a href="https://jornal-usp-br.cdn.ampproject.org/c/s/jornal.usp.br/ciencias/usp-lanca-curso-on-line-gratuito-sobre-inteligencia-artificial-na-saude/?amp">Curso de Inteligência Artificial na saúde/</a></li>
+<h2>Projetos</h2>
 <h4>USP</h4> <li><a href="https://www5.usp.br/tag/projetos-2/">Projetos da instituição.</a></li>
 
 <!-- <li><a href="">exemplo</a></li>
@@ -33,4 +34,6 @@
 <h4>Fonte</h4> <li><a href="">Nome do link</a></li>
  -->
 </ul>
+
+
 
