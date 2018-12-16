@@ -11,6 +11,7 @@
 <h2>Nóticias</h2>
 <h4>Tecmundo</h4> <li><a href="https://www.tecmundo.com.br/ciencia/127945-menina-ganha-mao-bionica-doenca-tragica.htm">Menina ganha mão bionica após doença trágica</a></li>
 <h4>Olhar digital</h4> <li><a href="https://www.tecmundo.com.br/ciencia/127945-menina-ganha-mao-bionica-doenca-tragica.htm">Google usa sua tecnologia em drones militares e funcionários se revoltam</a></li>
+<h4>Extra</h4> <li><a href="https://extra.globo.com/noticias/economia/extra-mapeia-dez-atacarejos-lojas-que-vendem-roupas-utilidades-precos-de-fabrica-12104198.html">EXTRA mapeia dez ‘atacarejos’, lojas que vendem roupas e utilidades a preços de fábrica</a></li>
 <h2>Pesquisas</h2>
 <h3></h3>
 <h2>Eventos</h2>
