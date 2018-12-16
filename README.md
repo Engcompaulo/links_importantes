@@ -7,6 +7,8 @@
 <h2>Repositórios Gthub</h2>
 <h3></h3>
 <h2>Artigos</h2>
+<h4>Tania Rascia</h4> <li><a href="https://www.taniarascia.com/how-to-use-local-storage-with-javascript/">Como usar o armazenamento local com JavaScript</a></li>
+<h4>Medium</h4> <li><a href="https://medium.com/@programadriano/rabbitmq-criando-workers-com-node-js-268b40da7789">RabbitMQ criando workers com Node.js</a></li>
 <h4>Nature</h4> <li><a href="https://www.nature.com/articles/s41551-018-0195-0.epdf?referrer_access_token=o4N4Dn6D8MCdHMaEPcJRSdRgN0jAjWel9jnR3ZoTv0OMsbBDq-7d5VZef-dAA8S42ksrZ1yBZ3WBQt5pZ416cy7NQGq1FbJJy0uOTxIoC3CU8nn8fmT-RTRVz8SQRPFLm0cYdoImE_dKVIAFZ7b8nkt2psCXq84UXbc6hD3LdmhhYeg_IXJ76pHskPiwglJrfb2pbHKNRbxLRTEINRQEArNZz-Zp76__1cHbFgJzp1Hxs44GWqePax0dzHwZP5vflsjDWMlFlQAW3YRqWEnHOSFAkIkCqVuddKEPs6pfrKlyeodESH9cFe_o51miGbr0&tracking_referrer=www.theverge.com">Prediction of cardiovascular risk factors...</a></li>
 <h2>Nóticias</h2>
 <h4>Tecmundo</h4> <li><a href="https://www.tecmundo.com.br/ciencia/127945-menina-ganha-mao-bionica-doenca-tragica.htm">Menina ganha mão bionica após doença trágica.</a></li>
@@ -25,7 +27,7 @@
 <h3></h3>
 <h2>Cursos</h2>
 <h4>Evaldo Junior (InFog)</h4> <li><a href="http://blog.evaldojunior.com.br/aulas-de-python.html">Curso de Python.</a></li>
-<h4>USP</h4> <li><a href="https://jornal-usp-br.cdn.ampproject.org/c/s/jornal.usp.br/ciencias/usp-lanca-curso-on-line-gratuito-sobre-inteligencia-artificial-na-saude/?amp">Curso de Inteligência Artificial na saúde/</a></li>
+<h4>USP</h4> <li><a href="https://jornal-usp-br.cdn.ampproject.org/c/s/jornal.usp.br/ciencias/usp-lanca-curso-on-line-gratuito-sobre-inteligencia-artificial-na-saude/?amp">Curso de Inteligência Artificial na saúde</a></li>
 <h2>Projetos</h2>
 <h4>USP</h4> <li><a href="https://www5.usp.br/tag/projetos-2/">Projetos da instituição.</a></li>
 
